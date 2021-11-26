@@ -501,7 +501,7 @@ input {
 
 .surprise__left-img::after {
   position: absolute;
-  content: url("../img/podarok.svg");
+  content: url("./img/podarok.svg");
   bottom: -60px;
   right: -90px;
   -webkit-transform: rotate(30deg);
