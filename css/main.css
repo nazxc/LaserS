@@ -393,7 +393,6 @@ input {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    height: 100%;
   }
   .left__content {
     margin-bottom: 60px;
