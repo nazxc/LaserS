@@ -458,6 +458,7 @@ input {
 }
 
 /* Media */
+/* Media */
 @media (max-width: 1025px) {
   .header {
     margin-bottom: 60px;
@@ -545,12 +546,6 @@ input {
   }
   .left__content {
     margin-bottom: 60px;
-  }
-  .works__items {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
   }
 }
 /*# sourceMappingURL=main.css.map */
