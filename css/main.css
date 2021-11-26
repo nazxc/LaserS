@@ -388,6 +388,8 @@ input {
 /* Media */
 @media (max-width: 1025px) {
   .first__display {
+    min-height: 100vh;
+    height: 100%;
     padding: 40px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
